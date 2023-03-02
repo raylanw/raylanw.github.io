@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://wrl.ink</id>
+    <title>Raylanw' Blog</title>
+    <updated>2023-03-02T08:29:36.467Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Raylanw</name>
+        <email>weironglu9586@gmail.com</email>
+        <uri>http://wrl.ink</uri>
+    </author>
+    <link rel="alternate" href="http://wrl.ink"/>
+    <link rel="self" href="http://wrl.ink/feed.atom"/>
+    <subtitle>Raylanw, Blog, Raylanw 的博客</subtitle>
+    <logo>http://wrl.ink/avatar.jpg</logo>
+    <icon>http://wrl.ink/logo.png</icon>
+    <rights>CC BY-NC-SA 4.0 2022 © Raylanw</rights>
+    <entry>
+        <title type="html"><![CDATA[C 语言拾遗]]></title>
+        <id>http://wrl.ink/posts/2023-03-02-C-programming</id>
+        <link href="http://wrl.ink/posts/2023-03-02-C-programming"/>
+        <updated>2023-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[C 语言遗漏知识]]></summary>
+        <author>
+            <name>Raylanw</name>
+            <email>weironglu9586@gmail.com</email>
+            <uri>http://wrl.ink</uri>
+        </author>
+        <rights>CC BY-NC-SA 4.0 2022 © Raylanw</rights>
+    </entry>
+</feed>

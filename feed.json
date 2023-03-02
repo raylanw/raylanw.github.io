@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Raylanw' Blog",
+    "home_page_url": "http://wrl.ink",
+    "feed_url": "http://wrl.ink/feed.json",
+    "description": "Raylanw, Blog, Raylanw 的博客",
+    "icon": "http://wrl.ink/avatar.jpg",
+    "author": {
+        "name": "Raylanw",
+        "url": "http://wrl.ink"
+    },
+    "items": [
+        {
+            "id": "http://wrl.ink/posts/2023-03-02-C-programming",
+            "url": "http://wrl.ink/posts/2023-03-02-C-programming",
+            "title": "C 语言拾遗",
+            "summary": "C 语言遗漏知识",
+            "image": "http://wrl.ink/avatar.jpg",
+            "date_modified": "2023-03-02T00:00:00.000Z",
+            "author": {
+                "name": "Raylanw",
+                "url": "http://wrl.ink"
+            }
+        }
+    ]
+}
