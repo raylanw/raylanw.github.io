@@ -2,7 +2,7 @@
 
 👋 Hey, I am Raylanw, an undergraduate student at **NanChang University**, majoring in **Computer Science and Technology**.
 
-I used to be a front-end enthusiast, based on Vue.js ecosystem. Now I'm focused on preparing for **the postgraduate entrance exam**, and in my spare time, I might learn computer basics(Data Structure, Algorithm, OS, ect.) and Java for back-end development.
+I used to be a front-end enthusiast, based on Vue.js ecosystem. Now I'm focused on preparing for **the postgraduate entrance exam**(main subjects include mathematics, English and fundamentals of computer science), and in my spare, I might learn Java EE for Web back-end development.
 
 
 
